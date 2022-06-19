@@ -21,7 +21,7 @@ function setup(){
 
 
 function draw(){
-  background("#033967");
+  background("#1846be");
   textSize(size_of_square);
   text('word', nose_x, nose_y);
   fill(255,2,4,255);
