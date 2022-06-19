@@ -1,0 +1,39 @@
+body {
+    color: white;
+    background-image: url("https://i.pinimg.com/originals/bf/82/f6/bf82f6956a32819af48c2572243e8286.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#heading1 {
+    background-color: #071224;
+    width: 100%;
+    top: 0;
+    font-size: 17px;
+    color: #ffffff;
+    font-weight: light;
+}
+
+#footer {
+    background-color: #02102a;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    color: #ef0604;
+    font-size: large;
+}
+
+canvas {
+    border: 2px solid #27fefb;
+    background-color: #1846be;
+    border-radius: 8px;
+    box-shadow: 10px 3px 10px #033967;
+}
+
+VIDEO {
+    border: 2px solid #27fefb;
+    box-shadow: -10px 3px 10px #033967;
+    border-radius: 10px;
+    background-color: #1846be;
+}
